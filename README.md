@@ -205,4 +205,4 @@ Sovelluksen jatkokehittäminen onnistuu samassa ympäristössä kirjoittamalla k
 ## Tausta
 Materiaali on tuotettu Seinäjoen ammattikorkeakoulussa osana Tekoälyn hyödyntäminen ja ohjelmistorobotiikka -hanketta, joka on Jatkuvan oppimisen ja työllisyyden palvelukeskuksen (JOTPA) rahoittama. Palvelukeskus edistää työikäisten osaamisen kehittämistä ja osaavan työvoiman saatavuutta. Palvelukeskuksen toimintaa ohjaavat opetus- ja kulttuuriministeriö sekä työ- ja elinkeinoministeriö.
 
-![jotpa](hhttps://github.com/SeAMKedu/Maarittelyvetoinen_kehitys_ja_SpecKit/blob/main/images/rahoittaja_jotpa.png)
+![jotpa](https://github.com/SeAMKedu/Maarittelyvetoinen_kehitys_ja_SpecKit/blob/main/images/rahoittaja_jotpa.png)

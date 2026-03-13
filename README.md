@@ -1,5 +1,7 @@
 # AI-avusteinen ohjelmistokehitys: määrittelyvetoinen kehitys (Spec-Driven Development) ja GitHub Spec Kit -työkalu
 
+[![DOI](https://zenodo.org/badge/1180705790.svg)](https://doi.org/10.5281/zenodo.19000663)
+
 ## Johdanto
 
 Tekoäly on viime vuosina muuttanut ohjelmistokehityksen työskentelytapoja merkittävästi. Kehittäjät voivat hyödyntää erilaisia tekoälypohjaisia työkaluja koodin kirjoittamiseen, virheiden etsimiseen sekä ohjelmistojen suunnitteluun. Tekoälyn hyödyntämisen alkuvaiheessa tyypillinen tapa käyttää tekoälyä ohjelmistokehityksessä on ollut niin sanottu **prompt-pohjainen työskentely**, jossa kehittäjä kuvaa halutun toiminnallisuuden tekoälylle ja pyytää sitä tuottamaan koodia. Tätä lähestymistapaa kutsutaan usein epävirallisesti *vibe-koodaukseksi*, jossa kehitys etenee nopeasti ideasta koodiin kokeilemalla ja iteratiivisesti tarkentamalla tekoälylle annettuja kehotteita.
